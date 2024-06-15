@@ -64,3 +64,5 @@ Thank you for visiting the Pet Store website repository!
 
 Replace the placeholders such as `dilshanindunil` and `dilshanindunilrajapaksha1@gmail.com` with your actual GitHub username and contact email. This README provides a comprehensive overview of the project, its features, and instructions for installation and contribution.
 
+![Screenshot 2024-06-15 112038](https://github.com/DilshanIndunil/pet-store-web-project/assets/163544478/77e5d4ca-e609-4394-960c-29d27673f195)
+
