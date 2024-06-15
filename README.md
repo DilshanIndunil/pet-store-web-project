@@ -1,3 +1,4 @@
+https://github.com/DilshanIndunil/pet-store-web-project/blob/e3762f085b208895fd94e5807ffb6acba3afb9a2/assets/Screenshot%202024-06-15%20112038.png
 # Pet Store Website
 
 Welcome to the Pet Store website repository. This project is a static website built using HTML, CSS, and a small amount of JavaScript. The site is designed to showcase available pets, pet products, and services offered by the pet store.
