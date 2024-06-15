@@ -58,7 +58,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any inquiries or feedback, please contact us at your-email@example.com.
+For any inquiries or feedback, please contact us at dilshanindunilrajapaksha1@gamil.com
 
 Thank you for visiting the Pet Store website repository!
 
